@@ -20,5 +20,5 @@ echo "$ chmod +x $_path/termux"
 chmod +x $_path/termus
 echo "$ termux-fix-shebang $_path/termus"
 termux-fix-shebang $_path/termus
-echo "> muxsic installed..."
-echo "> type \"muxsic\" and enter to run..."
+echo "> termu installed..."
+echo "> type \"termus\" and enter to run..."
