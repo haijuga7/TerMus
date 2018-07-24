@@ -91,6 +91,6 @@ while $loop; do
 	elif [ "$cmd" = "exit" ]; then
 		loop=false
 	else
-		echo "    ${merah}[${p}!${merah}] ${g}Wrong Input. Please check help ${p}!"
+		echo -e "    ${merah}[${p}!${merah}] ${g}Wrong Input. Please check help ${p}!"
 	fi
 done
